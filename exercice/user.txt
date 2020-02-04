@@ -1,0 +1,6 @@
+exo1 0
+exo2 1
+exo7 0
+exo2 1
+exo2 0
+exo2 1
